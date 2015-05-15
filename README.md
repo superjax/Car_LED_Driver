@@ -9,7 +9,7 @@ I have only included the schematic and the board files.
 
 
 
-## Liscence
+## License
 Copyright (c) 2015, James Jackson
 All rights reserved
 
